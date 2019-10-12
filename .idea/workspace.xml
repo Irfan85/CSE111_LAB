@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="83888d25-f807-41a1-b300-6c94a0219dda" name="Default Changelist" comment="" />
+    <list default="true" id="83888d25-f807-41a1-b300-6c94a0219dda" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Lab03/StringRelated/Easy/Prb01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab03/StringRelated/Easy/Prb02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab03/StringRelated/Easy/Prb03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab03/StringRelated/Hard/Prb01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab03/StringRelated/Hard/Prb02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab03/StringRelated/Hard/Prb03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab03/StringRelated/Hard/Prb04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab03/StringRelated/Medium/Prb01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab03/StringRelated/Medium/Prb02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab03/StringRelated/Medium/Prb03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab03/StringRelated/Medium/Prb04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab03/Task01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab03/Task02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab03/Task03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab03/Task05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab03/Task06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab03/Task07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab03/Task4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CSE111_LAB/META-INF/CSE111_LAB.kotlin_module" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,12 +40,15 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1RQkeKBYEwNjj3ibjEJqlQYxWzC" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Lab02/CSE110_LAB08" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Lab03/StringRelated/Medium" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -32,7 +57,12 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\IdeaProjects\CSE111_LAB\src\Lab03" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IdeaProjects\CSE111_LAB\src\Lab03\StringRelated\Medium" />
+      <recent name="E:\IdeaProjects\CSE111_LAB\src\Lab03\StringRelated\Easy" />
       <recent name="$PROJECT_DIR$/src/Lab02/CSE110_LAB08" />
       <recent name="$PROJECT_DIR$/src/Lab02" />
     </key>
@@ -49,13 +79,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Task10">
-    <configuration name="Task06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab02.CSE110_LAB08.Task06" />
+  <component name="RunManager" selected="Application.Prb04 (1)">
+    <configuration name="Prb01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab03.StringRelated.Hard.Prb01" />
       <module name="CSE111_LAB" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lab02.CSE110_LAB08.*" />
+          <option name="PATTERN" value="Lab03.StringRelated.Hard.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab02.CSE110_LAB08.Task07" />
+    <configuration name="Prb02 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab03.StringRelated.Hard.Prb02" />
       <module name="CSE111_LAB" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lab02.CSE110_LAB08.*" />
+          <option name="PATTERN" value="Lab03.StringRelated.Hard.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task08 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab02.CSE110_LAB08.Task08" />
+    <configuration name="Prb03 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab03.StringRelated.Hard.Prb03" />
       <module name="CSE111_LAB" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lab02.CSE110_LAB08.*" />
+          <option name="PATTERN" value="Lab03.StringRelated.Hard.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab02.CSE110_LAB08.Task09" />
+    <configuration name="Prb04 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab03.StringRelated.Hard.Prb04" />
       <module name="CSE111_LAB" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lab02.CSE110_LAB08.*" />
+          <option name="PATTERN" value="Lab03.StringRelated.Hard.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab02.CSE110_LAB08.Task10" />
+    <configuration name="Prb04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab03.StringRelated.Medium.Prb04" />
       <module name="CSE111_LAB" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lab02.CSE110_LAB08.*" />
+          <option name="PATTERN" value="Lab03.StringRelated.Medium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task10" />
-        <item itemvalue="Application.Task09" />
-        <item itemvalue="Application.Task08 (1)" />
-        <item itemvalue="Application.Task07" />
-        <item itemvalue="Application.Task06" />
+        <item itemvalue="Application.Prb04 (1)" />
+        <item itemvalue="Application.Prb03 (1)" />
+        <item itemvalue="Application.Prb02 (1)" />
+        <item itemvalue="Application.Prb01" />
+        <item itemvalue="Application.Prb04" />
       </list>
     </recent_temporary>
   </component>
@@ -138,10 +168,27 @@
       <workItem from="1569606801956" duration="14624000" />
       <workItem from="1570103854799" duration="602000" />
       <workItem from="1570118407152" duration="28000" />
+      <workItem from="1570535226968" duration="42000" />
+      <workItem from="1570880653694" duration="78000" />
+      <workItem from="1570881153004" duration="13175000" />
+      <workItem from="1570905177498" duration="3460000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
