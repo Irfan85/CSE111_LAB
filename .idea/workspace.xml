@@ -2,18 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83888d25-f807-41a1-b300-6c94a0219dda" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Lab04/Task08/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab04/Task08/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab04/Task09/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab04/Task09/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab04/Task10/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab04/Task11/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab04/Task11/BookDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab04/Task12/Author.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab04/Task13/Clock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab04/Task13/ClockDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab04/Task14/Complex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab04/Task14/ComplexDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/irfan.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab04/Task15/BoroInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab04/Task15/BoroIntDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,10 +29,11 @@
   </component>
   <component name="ProjectId" id="1RQkeKBYEwNjj3ibjEJqlQYxWzC" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Lab04" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -72,7 +65,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ComplexDemo">
+  <component name="RunManager" selected="Application.BoroIntDemo">
+    <configuration name="BoroIntDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab04.Task15.BoroIntDemo" />
+      <module name="CSE111_LAB" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lab04.Task15.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ClockDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lab04.Task13.ClockDemo" />
       <module name="CSE111_LAB" />
@@ -92,19 +98,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Lab04.Task14.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Prb02 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab03.StringRelated.Hard.Prb02" />
-      <module name="CSE111_LAB" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lab03.StringRelated.Hard.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BoroIntDemo" />
         <item itemvalue="Application.ComplexDemo" />
         <item itemvalue="Application.ClockDemo" />
         <item itemvalue="Application.Prb04 (1)" />
         <item itemvalue="Application.Prb03 (1)" />
-        <item itemvalue="Application.Prb02 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -165,6 +158,8 @@
       <workItem from="1570880653694" duration="78000" />
       <workItem from="1570881153004" duration="13175000" />
       <workItem from="1570905177498" duration="10730000" />
+      <workItem from="1570977869612" duration="5807000" />
+      <workItem from="1571017729502" duration="10162000" />
     </task>
     <task id="LOCAL-00001" summary="Lab03 Done">
       <created>1570908677784</created>
