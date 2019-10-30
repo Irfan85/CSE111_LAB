@@ -1,4 +1,4 @@
-package Lab06.Assignment05;
+package Lab07.Assignment05;
 
 public class Playground {
     public static void main(String[] args) {
