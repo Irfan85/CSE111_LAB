@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="83888d25-f807-41a1-b300-6c94a0219dda" name="Default Changelist" comment="" />
+    <list default="true" id="83888d25-f807-41a1-b300-6c94a0219dda" name="Default Changelist" comment="Lab07 Complete" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -161,7 +161,7 @@
       <workItem from="1571926351311" duration="5000" />
       <workItem from="1571934358876" duration="1162000" />
       <workItem from="1571941081703" duration="3443000" />
-      <workItem from="1572438881405" duration="15916000" />
+      <workItem from="1572438881405" duration="16176000" />
     </task>
     <task id="LOCAL-00001" summary="Lab03 Done">
       <created>1570908677784</created>
@@ -198,7 +198,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572466844119</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Lab06 Complete">
+      <created>1572467217189</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1572467217189</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
