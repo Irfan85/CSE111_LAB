@@ -1,8 +1,132 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="83888d25-f807-41a1-b300-6c94a0219dda" name="Default Changelist" comment="Lab07 Complete" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="83888d25-f807-41a1-b300-6c94a0219dda" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab06/Task01/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab06/Task01/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab06/Task01/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab06/Task02/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab06/Task02/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab06/Task03/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab06/Task03/StudentDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab06/Task04/Trim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab06/Task05/SecondMostOften.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab06/Task06/NegativeRemover.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab06/Task07/OddRemover.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab08/Task02/BBAStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab08/Task02/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab08/Task02/TestStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab08/Task03/Task03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab08/Task04/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab08/Task04/VehicleUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab08/Task05/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab08/Task05/Vehicle2010.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab08/Task05/Vehicle2010User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab08/Task06/ComplexNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab08/Task06/RealNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab08/Task06/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab08/Task07/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab08/Task07/Jackfruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab08/Task07/Mango.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab08/Task07/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab08/Task08/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab08/Task08/CheckingAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab08/Task08/TestAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab08/Task09/CSE111Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab08/Task09/CSEStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab08/Task09/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab08/Task09/TestStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab08/Task10/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab08/Task10/TestCars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab08/Task11/AnimaDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab08/Task11/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab08/Task11/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab08/Task11/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab08/Task17/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab08/Task17/Grid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab08/Task17/Robot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab09/Task01/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab09/Task01/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab09/Task01/StudentDatabase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab09/Task03/Task03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab09/Task04/Task04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab09/Task05/Task05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab09/Task06/Happy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab09/Task08/Lab10Task02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab09/Task08/Lab10Task03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab10/Task01/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab10/Task01/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab10/Task01/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab10/Task01/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab10/Task02/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab10/Task02/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab10/Task02/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab10/Task03/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab10/Task03/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab10/Task03/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab10/Task04/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab10/Task04/Paint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab10/Task04/PaintThings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab10/Task04/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab10/Task04/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab10/Task04/Sphere.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab10/Task08/Guitar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab10/Task08/Instrument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab10/Task08/Keyboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab10/Task08/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab10/Task08/Violin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab10/Task09/StInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab10/Task09/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab10/Task09/Tester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CSE111_LAB/Lab01/Task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CSE111_LAB/Lab01/Task1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CSE111_LAB/Lab01/Task10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CSE111_LAB/Lab01/Task10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CSE111_LAB/Lab01/Task11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CSE111_LAB/Lab01/Task11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CSE111_LAB/Lab01/Task12.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CSE111_LAB/Lab01/Task12.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CSE111_LAB/Lab01/Task13.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CSE111_LAB/Lab01/Task13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CSE111_LAB/Lab01/Task15.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CSE111_LAB/Lab01/Task15.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CSE111_LAB/Lab01/Task16.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CSE111_LAB/Lab01/Task16.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CSE111_LAB/Lab01/Task17.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CSE111_LAB/Lab01/Task17.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CSE111_LAB/Lab01/Task18.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CSE111_LAB/Lab01/Task18.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CSE111_LAB/Lab01/Task19.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CSE111_LAB/Lab01/Task19.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CSE111_LAB/Lab01/Task2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CSE111_LAB/Lab01/Task2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CSE111_LAB/Lab01/Task20.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CSE111_LAB/Lab01/Task20.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CSE111_LAB/Lab01/Task21.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CSE111_LAB/Lab01/Task21.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CSE111_LAB/Lab01/Task22.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CSE111_LAB/Lab01/Task22.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CSE111_LAB/Lab01/Task23.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CSE111_LAB/Lab01/Task23.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CSE111_LAB/Lab01/Task24.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CSE111_LAB/Lab01/Task24.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CSE111_LAB/Lab01/Task25.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CSE111_LAB/Lab01/Task25.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CSE111_LAB/Lab01/Task3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CSE111_LAB/Lab01/Task3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CSE111_LAB/Lab01/Task4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CSE111_LAB/Lab01/Task4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CSE111_LAB/Lab01/Task5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CSE111_LAB/Lab01/Task5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CSE111_LAB/Lab01/Task7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CSE111_LAB/Lab01/Task7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CSE111_LAB/Lab01/Task8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CSE111_LAB/Lab01/Task8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CSE111_LAB/Lab01/Task9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CSE111_LAB/Lab01/Task9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CSE111_LAB/Lab02/CSE110_LAB08/Task02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CSE111_LAB/Lab02/CSE110_LAB08/Task02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CSE111_LAB/Lab02/CSE110_LAB08/Task03.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CSE111_LAB/Lab02/CSE110_LAB08/Task03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CSE111_LAB/Lab02/CSE110_LAB08/Task05.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CSE111_LAB/Lab02/CSE110_LAB08/Task05.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CSE111_LAB/Lab02/CSE110_LAB08/Task06.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CSE111_LAB/Lab02/CSE110_LAB08/Task06.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CSE111_LAB/Lab02/CSE110_LAB08/Task07.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CSE111_LAB/Lab02/CSE110_LAB08/Task07.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CSE111_LAB/Lab02/CSE110_LAB08/Task08.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CSE111_LAB/Lab02/CSE110_LAB08/Task08.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CSE111_LAB/Lab02/CSE110_LAB08/Task09.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CSE111_LAB/Lab02/CSE110_LAB08/Task09.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CSE111_LAB/Lab02/CSE110_LAB08/Task10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CSE111_LAB/Lab02/CSE110_LAB08/Task10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CSE111_LAB/Lab02/Task01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CSE111_LAB/Lab02/Task01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CSE111_LAB/Lab02/Task03.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CSE111_LAB/Lab02/Task03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CSE111_LAB/Lab02/Task04.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CSE111_LAB/Lab02/Task04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CSE111_LAB/Lab02/Task05.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CSE111_LAB/Lab02/Task05.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CSE111_LAB/Lab02/Task06.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CSE111_LAB/Lab02/Task06.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CSE111_LAB/Lab02/Task07.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CSE111_LAB/Lab02/Task07.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CSE111_LAB/Lab02/Task08.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CSE111_LAB/Lab02/Task08.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CSE111_LAB/Lab02/Task09.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CSE111_LAB/Lab02/Task09.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CSE111_LAB/Task14.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CSE111_LAB/Task14.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CSE111_LAB/Task6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CSE111_LAB/Task6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab06/Task08/FinalT6A.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab07/Assignment05/MyString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab07/MyString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab07/Assignment05/Playground.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab07/Assignment05/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab07/Tester.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,50 +146,55 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1RQkeKBYEwNjj3ibjEJqlQYxWzC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Lab06/Task08/Assignment05" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="E:\IdeaProjects\CSE111_LAB\src\Lab03" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Lab06.Task03" />
+      <recent name="Lab06.Task01" />
+      <recent name="Lab08.Task08" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Lab09.Task05" />
+      <recent name="Lab09.Task04" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="E:\IdeaProjects\CSE111_LAB\src\Lab08" />
       <recent name="$PROJECT_DIR$/src/Lab06/Task08/Assignment05" />
       <recent name="E:\IdeaProjects\CSE111_LAB\src\Lab05" />
       <recent name="E:\IdeaProjects\CSE111_LAB\src\Lab04" />
-      <recent name="E:\IdeaProjects\CSE111_LAB\src\Lab03\StringRelated\Medium" />
-      <recent name="E:\IdeaProjects\CSE111_LAB\src\Lab03\StringRelated\Easy" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\IdeaProjects\CSE111_LAB\src\Lab03" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.Tester">
-    <configuration name="BoroIntDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab04.Task15.BoroIntDemo" />
+  <component name="RunManager" selected="Application.OddRemover">
+    <configuration name="NegativeRemover" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab06.Task06.NegativeRemover" />
       <module name="CSE111_LAB" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lab04.Task15.*" />
+          <option name="PATTERN" value="Lab06.Task06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +202,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ComplexDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab04.Task14.ComplexDemo" />
+    <configuration name="OddRemover" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab06.Task07.OddRemover" />
       <module name="CSE111_LAB" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lab04.Task14.*" />
+          <option name="PATTERN" value="Lab06.Task07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +215,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab06.Task08.Driver" />
+    <configuration name="SecondMostOften" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab06.Task05.SecondMostOften" />
       <module name="CSE111_LAB" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lab06.Task08.*" />
+          <option name="PATTERN" value="Lab06.Task05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +228,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Playground" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab07.Assignment05.Playground" />
+    <configuration name="StudentDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab06.Task03.StudentDriver" />
       <module name="CSE111_LAB" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lab07.Assignment05.*" />
+          <option name="PATTERN" value="Lab06.Task03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +241,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab07.Assignment05.Tester" />
+    <configuration name="Trim" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab06.Task04.Trim" />
       <module name="CSE111_LAB" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lab07.Assignment05.*" />
+          <option name="PATTERN" value="Lab06.Task04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,13 +256,25 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Tester" />
-        <item itemvalue="Application.Playground" />
-        <item itemvalue="Application.Driver" />
-        <item itemvalue="Application.BoroIntDemo" />
-        <item itemvalue="Application.ComplexDemo" />
+        <item itemvalue="Application.OddRemover" />
+        <item itemvalue="Application.NegativeRemover" />
+        <item itemvalue="Application.SecondMostOften" />
+        <item itemvalue="Application.Trim" />
+        <item itemvalue="Application.StudentDriver" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -161,7 +302,22 @@
       <workItem from="1571926351311" duration="5000" />
       <workItem from="1571934358876" duration="1162000" />
       <workItem from="1571941081703" duration="3443000" />
-      <workItem from="1572438881405" duration="16176000" />
+      <workItem from="1572438881405" duration="16545000" />
+      <workItem from="1573844471121" duration="3272000" />
+      <workItem from="1573880372363" duration="273000" />
+      <workItem from="1574193201418" duration="189000" />
+      <workItem from="1574193570588" duration="299000" />
+      <workItem from="1574193884708" duration="767000" />
+      <workItem from="1574224381312" duration="628000" />
+      <workItem from="1574245295859" duration="1291000" />
+      <workItem from="1574313099989" duration="240000" />
+      <workItem from="1574504036441" duration="324000" />
+      <workItem from="1574505194333" duration="4398000" />
+      <workItem from="1574786825641" duration="10000" />
+      <workItem from="1574950040439" duration="26000" />
+      <workItem from="1575040800456" duration="2258000" />
+      <workItem from="1575084202835" duration="8877000" />
+      <workItem from="1575120026849" duration="25730000" />
     </task>
     <task id="LOCAL-00001" summary="Lab03 Done">
       <created>1570908677784</created>
@@ -205,7 +361,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572467217189</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Lab07 Complete">
+      <created>1572467279572</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1572467279572</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -230,6 +393,42 @@
     <MESSAGE value="Lab04 Task15 Done" />
     <MESSAGE value="Lab05 Complete" />
     <MESSAGE value="Lab06 Complete" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab06 Complete" />
+    <MESSAGE value="Lab07 Complete" />
+    <MESSAGE value="Lab09 Complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab09 Complete" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="293" y="220" key="#com.intellij.ide.util.MemberChooser" timestamp="1575137672184">
+      <screen x="0" y="0" width="1920" height="1035" />
+    </state>
+    <state x="293" y="220" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1035@0.0.1920.1035" timestamp="1575137672184" />
+    <state x="446" y="105" key="CommitChangelistDialog2" timestamp="1575152197932">
+      <screen x="0" y="0" width="1920" height="1035" />
+    </state>
+    <state x="446" y="105" key="CommitChangelistDialog2/0.0.1920.1035@0.0.1920.1035" timestamp="1575152197932" />
+    <state width="1870" height="336" key="GridCell.Tab.0.bottom" timestamp="1575151865862">
+      <screen x="0" y="0" width="1920" height="1035" />
+    </state>
+    <state width="1870" height="336" key="GridCell.Tab.0.bottom/0.0.1920.1035@0.0.1920.1035" timestamp="1575151865862" />
+    <state width="1870" height="336" key="GridCell.Tab.0.center" timestamp="1575151865862">
+      <screen x="0" y="0" width="1920" height="1035" />
+    </state>
+    <state width="1870" height="336" key="GridCell.Tab.0.center/0.0.1920.1035@0.0.1920.1035" timestamp="1575151865862" />
+    <state width="1870" height="336" key="GridCell.Tab.0.left" timestamp="1575151865861">
+      <screen x="0" y="0" width="1920" height="1035" />
+    </state>
+    <state width="1870" height="336" key="GridCell.Tab.0.left/0.0.1920.1035@0.0.1920.1035" timestamp="1575151865861" />
+    <state width="1870" height="336" key="GridCell.Tab.0.right" timestamp="1575151865862">
+      <screen x="0" y="0" width="1920" height="1035" />
+    </state>
+    <state width="1870" height="336" key="GridCell.Tab.0.right/0.0.1920.1035@0.0.1920.1035" timestamp="1575151865862" />
+    <state x="154" y="193" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1575151741327">
+      <screen x="0" y="0" width="1920" height="1035" />
+    </state>
+    <state x="154" y="193" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1035@0.0.1920.1035" timestamp="1575151741327" />
+    <state x="710" y="139" key="refactoring.ChangeSignatureDialog" timestamp="1575132109915">
+      <screen x="0" y="0" width="1920" height="1035" />
+    </state>
+    <state x="710" y="139" key="refactoring.ChangeSignatureDialog/0.0.1920.1035@0.0.1920.1035" timestamp="1575132109915" />
   </component>
 </project>

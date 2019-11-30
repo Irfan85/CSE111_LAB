@@ -1,4 +1,4 @@
-package Lab07.Assignment05;
+package Lab07;
 
 public class Tester{
 	 public static void main (String[] args){

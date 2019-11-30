@@ -1,4 +1,4 @@
-package Lab07.Assignment05;
+package Lab07;
 
 public class MyString {
     char[] c;
